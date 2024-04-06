@@ -1,0 +1,18 @@
+{
+    "pieChartData": {
+        "PortfolioAllocation": {
+            "Tech": 50,
+            "Healthcare": 20,
+            "Finance": 15,
+            "Energy": 10,
+            "Other": 5
+        }
+    },
+    "tableData": {
+        "stockMetrics": [
+            { "symbol": "AAPL", "price": "$170", "volume": "10M", "change": "+2.5%" },
+            { "symbol": "GOOGL", "price": "$2200", "volume": "5M", "change": "-1.2%" },
+            { "symbol": "AMZN", "price": "$3700", "volume": "8M", "change": "+1.8%" }
+        ]
+    }
+}
