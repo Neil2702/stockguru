@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "ID Nation": "01000US",
-      "Nation": "United States",
+      "ID Nation": "01000CA",
+      "Nation": "Canada",
       "ID Year": 2021,
-      "Year": "2021",
+      "Year": "2024",
       "Population": 329725481,
       "Slug Nation": "united-states"
     },
